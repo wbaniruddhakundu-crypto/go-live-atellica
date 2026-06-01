@@ -5,3 +5,4 @@ numpy
 Xlsxwriter
 plotly
 fpdf
+psycopg2-binary
